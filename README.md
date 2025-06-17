@@ -17,7 +17,6 @@ Soy Ingeniero en [ESCOM, IPN](https://www.ipn.mx/), apasionado por el desarrollo
 
 ### Herramientas y Plataformas
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visual-studio-code)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
@@ -32,6 +31,5 @@ Soy Ingeniero en [ESCOM, IPN](https://www.ipn.mx/), apasionado por el desarrollo
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=leonardoperez&show_icons=true&hide_title=true&count_private=true)
 
 ## 📬 Contacto
-- Email: [leonardo@example.com](mailto:leonardo@example.com)
-- LinkedIn: [Leonardo Perez Lopez](https://www.linkedin.com/in/leonardoperez)
-- Twitter: [@leonardoperez](https://twitter.com/leonardoperez)
+- Email: [leolopez100200@gmail.com](mailto:leolopez100200@gmail.com)
+- LinkedIn: [Leonardo Perez Lopez](https://www.linkedin.com/in/leolopezescom/)
