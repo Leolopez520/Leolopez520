@@ -1,6 +1,6 @@
 # ¡Hola, soy Leonardo Pérez López! 👋
 
-Soy Ingeniero en [ESCOM, IPN](https://www.ipn.mx/), apasionado por el desarrollo web. Me encanta crear soluciones innovadoras utilizando tecnologías modernas y aprender siempre algo nuevo. 🚀
+Soy Ingeniero en [ESCOM, IPN](https://www.escom.ipn.mx/), apasionado por el desarrollo web. Me encanta crear soluciones innovadoras utilizando tecnologías modernas y aprender siempre algo nuevo. 🚀
 
 ## 🛠️ Tecnologías y Herramientas
 
