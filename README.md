@@ -38,7 +38,7 @@ Agosto 2015 - Agosto 2018
 
 - [**Seguimiento Metro**](https://github.com/Leolopez520/Seguimiento-Metro): Un sistema de seguimiento para el metro, diseñado para monitorear rutas y tiempos de espera.
 - [**ToDo List**](https://github.com/Leolopez520/ToDoIst): Un proyecto web creado para agregar, eliminar y modificar tareas guardadas localmente.
-- [**API RESTful**](link_del_repositorio): Una API creada con Node.js y Express para manejar usuarios y autenticación.
+- [**API RESTful con autenticación**](https://github.com/Leolopez520/api-rest-node-basica): API construida con **Node.js**, **Express** y **JWT** para manejar usuarios, registro, login y rutas protegidas. Incluye validaciones, manejo de errores y estructura modular.
 
 
 ## 📊 Estadísticas de GitHub
