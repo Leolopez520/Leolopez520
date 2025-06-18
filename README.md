@@ -3,13 +3,13 @@
 Soy Ingeniero en [ESCOM, IPN](https://www.escom.ipn.mx/), apasionado por el desarrollo web. Me encanta crear soluciones innovadoras utilizando tecnologías modernas y aprender siempre algo nuevo. 🚀
 
 ## 🎓 Educación
-ESCOM - IPN 
-Ingeniero en Sistemas Computacionales
-Enero 2019 - Diciembre 2025
+**ESCOM - IPN** 
+Ingeniero en Sistemas Computacionales  
+Enero 2019 - Diciembre 2025  
 
-CECyT 2 "Miguel Bernard" - IPN
-Técnico en Diseño Gráfico Digital
-Agosto 2015 - Agosto 2018
+**CECyT 2 "Miguel Bernard" - IPN**
+Técnico en Diseño Gráfico Digital  
+Agosto 2015 - Agosto 2018  
 
 ## 🛠️ Tecnologías y Herramientas
 
