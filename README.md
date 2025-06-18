@@ -23,9 +23,10 @@ Soy Ingeniero en [ESCOM, IPN](https://www.escom.ipn.mx/), apasionado por el desa
 
 ## 🚀 Proyectos Destacados
 
-- [**Mi Proyecto Web**](link_del_repositorio): Un proyecto web creado con React, Node.js y MongoDB para gestionar tareas.
-- [**API RESTful**](link_del_repositorio): Una API creada con Node.js y Express para manejar usuarios y autenticación.
 - [**Seguimiento Metro**](https://github.com/Leolopez520/Seguimiento-Metro): Un sistema de seguimiento para el metro, diseñado para monitorear rutas y tiempos de espera.
+- [**ToDo List**]((https://github.com/Leolopez520/ToDoIst)): Un proyecto web creado para agregar, eliminar y modificar tareas guardadas localmente.
+- [**API RESTful**](link_del_repositorio): Una API creada con Node.js y Express para manejar usuarios y autenticación.
+
 
 ## 📊 Estadísticas de GitHub
 
