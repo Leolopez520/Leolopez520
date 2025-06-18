@@ -14,7 +14,7 @@ Agosto 2015 - Agosto 2018
 ## 🛠️ Tecnologías y Herramientas
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
@@ -23,6 +23,9 @@ Agosto 2015 - Agosto 2018
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![MySQL](https://img.shields.io/badge/Python-blue?logo=python)
+![PostgreSQL](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/Python-blue?logo=python)
 
 ### Herramientas y Plataformas
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
