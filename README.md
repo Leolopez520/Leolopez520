@@ -23,8 +23,8 @@ Agosto 2015 - Agosto 2018
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-orange?logo=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=postgresql)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-blue?logo=sql)](https://en.wikipedia.org/wiki/SQL)
 
 ### Herramientas y Plataformas
