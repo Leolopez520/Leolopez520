@@ -46,6 +46,9 @@ Agosto 2015 - Agosto 2018
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=leonardoperez&show_icons=true&hide_title=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolopez100200&layout=compact&theme=radical)
+
+
 ## 📬 Contacto
 - Email: [leolopez100200@gmail.com](mailto:leolopez100200@gmail.com)
 - LinkedIn: [Leonardo Perez Lopez](https://www.linkedin.com/in/leolopezescom/)
