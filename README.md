@@ -31,7 +31,8 @@ Agosto 2015 - Agosto 2018
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/)
 [![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-black?logo=linux)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-black?logo=linux)](https://www.linux.org/)  
+[![Postman](https://img.shields.io/badge/Postman-orange?logo=postman)](https://www.postman.com/)
 
 
 ## 🚀 Proyectos Destacados
