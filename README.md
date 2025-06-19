@@ -45,7 +45,7 @@ Agosto 2015 - Agosto 2018
 ## 📝 Idiomas
 
 ### 🌐 Inglés  
-<img src="https://github.com/Leolopez520/English/blob/main/Level" alt="Resultado EF SET" width="600"/>
+<img src="https://github.com/Leolopez520/English/blob/main/Level.png?raw=true" alt="Resultado EF SET" width="600"/>  
 
 ### 🌐 Español  
 Nativo 🇲🇽
@@ -60,6 +60,18 @@ Nativo 🇲🇽
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leolopez520&layout=compact&theme=radical)
 
 
+## 💡 Habilidades blandas
+
+- Pensamiento lógico y resolución de problemas
+- Comunicación efectiva
+- Adaptabilidad y aprendizaje autodidacta
+- Trabajo en equipo
+- Gestión del tiempo
+
+
+---
+
 ## 📬 Contacto
-- Email: [leolopez100200@gmail.com](mailto:leolopez100200@gmail.com)
-- LinkedIn: [Leonardo Perez Lopez](https://www.linkedin.com/in/leolopezescom/)
+📧 [leolopez100200@gmail.com](mailto:leolopez100200@gmail.com)  
+🔗 [LinkedIn - Leonardo Perez Lopez](https://www.linkedin.com/in/leolopezescom/)
+
