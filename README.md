@@ -18,7 +18,7 @@ Agosto 2015 - Agosto 2018
 [![React](https://img.shields.io/badge/React-blue?logo=react)](https://reactjs.org/)
 [![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-white?logo=typescript)](https://www.typescriptlang.org/)
 
 ### Backend
 [![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)](https://nodejs.org/)
