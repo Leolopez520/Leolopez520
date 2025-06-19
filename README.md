@@ -44,7 +44,7 @@ Agosto 2015 - Agosto 2018
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=leonardoperez&show_icons=true&hide_title=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Leonardo520&show_icons=true&hide_title=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leolopez520&layout=compact&theme=radical)
 
