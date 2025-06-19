@@ -42,8 +42,9 @@ Agosto 2015 - Agosto 2018
 - [**API RESTful con autenticación**](https://github.com/Leolopez520/api-rest-node-basica): API construida con **Node.js**, **Express** y **JWT** para manejar usuarios, registro, login y rutas protegidas. Incluye validaciones, manejo de errores y estructura modular.
 - [**Claim Rewards Twitch**](https://github.com/Leolopez520/claim-rewards-twitch): 🖱️ Script para Tampermonkey que detecta y reclama automáticamente los bonos de visualización en Twitch usando JavaScript y `MutationObserver`. Ideal para automatizar la recolección de recompensas sin intervención del usuario.
 
-##📝 Idiomas
-![Resultado EF SET]<img src="https://github.com/Leolopez520/tu-repo/raw/main/assets/efset-result.png" alt="Resultado EF SET" width="400"/>
+## 📝 Idiomas
+
+![Resultado EF SET]<img src="https://github.com/Leolopez520/English/blob/main/Level" alt="Resultado EF SET" width="400"/>
 
 
 
