@@ -40,6 +40,7 @@ Agosto 2015 - Agosto 2018
 - [**Seguimiento Metro**](https://github.com/Leolopez520/Seguimiento-Metro): Un sistema de seguimiento para el metro, diseñado para monitorear rutas y tiempos de espera.
 - [**ToDo List**](https://github.com/Leolopez520/ToDoIst): Un proyecto web creado para agregar, eliminar y modificar tareas guardadas localmente.
 - [**API RESTful con autenticación**](https://github.com/Leolopez520/api-rest-node-basica): API construida con **Node.js**, **Express** y **JWT** para manejar usuarios, registro, login y rutas protegidas. Incluye validaciones, manejo de errores y estructura modular.
+- [**Claim Rewards Twitch**](https://github.com/Leolopez520/claim-rewards-twitch): 🖱️ Script para Tampermonkey que detecta y reclama automáticamente los bonos de visualización en Twitch usando JavaScript y `MutationObserver`. Ideal para automatizar la recolección de recompensas sin intervención del usuario.
 
 
 ## 📊 Estadísticas de GitHub
