@@ -44,11 +44,11 @@ Agosto 2015 - Agosto 2018
 
 ## 📝 Idiomas
 
-[![Resultado EF SET]]    
-**Inglés**  
-<img src="https://github.com/Leolopez520/English/blob/main/Level" alt="Resultado EF SET" width="400"/>
-**Español**  
-Nativo
+### 🌐 Inglés  
+<img src="https://github.com/Leolopez520/English/raw/main/Level.png" alt="Resultado EF SET" width="400"/>
+
+### 🌐 Español  
+Nativo 🇲🇽
 
 
 
