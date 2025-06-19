@@ -43,7 +43,7 @@ Agosto 2015 - Agosto 2018
 - [**Claim Rewards Twitch**](https://github.com/Leolopez520/claim-rewards-twitch): 🖱️ Script para Tampermonkey que detecta y reclama automáticamente los bonos de visualización en Twitch usando JavaScript y `MutationObserver`. Ideal para automatizar la recolección de recompensas sin intervención del usuario.
 
 ##📝 Idiomas
-![Resultado EF SET](https://github.com/Leolopez520/English/blob/main/Level)
+![Resultado EF SET]<img src="https://github.com/Leolopez520/tu-repo/raw/main/assets/efset-result.png" alt="Resultado EF SET" width="400"/>
 
 
 
